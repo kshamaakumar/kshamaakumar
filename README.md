@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I am Kshama
 
-<!--
-**kshamaakumar/kshamaakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I find my happy place in the world of data. Proficient in Python, SQL, and cloud platforms, I love optimizing workflows, creating and fine-tuning Tableau dashboards, and ensuring smooth data migrations. With a background in Computer Science and a Master's degree in Data Science, I'm here to bring a mix of theory and hands-on expertise to the table.
 
-Here are some ideas to get you started:
+### The Learning Journey 🎓 
+From the halls of Computer Science to the depths of Data Science, I've ventured. Now, it's all about applying that knowledge in practical, impactful ways.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Adventures 💼 
+While I may be a bit on the shy side, my love for data is anything but. I'm on a mission to make data not just accessible, but truly useful.
+
+### Tech Tools 🛠️ 
+
+### How to reach me 📫 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshamaakumar&theme=nordfox&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+

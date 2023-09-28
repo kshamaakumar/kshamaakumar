@@ -12,6 +12,9 @@ While I may be a bit on the shy side, my love for data is anything but. I'm on a
 ### Tech Tools 🛠️ 
 
 ### How to reach me 📫 
+<a href="https://www.linkedin.com/in/kshamakumar/" target="blank"><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Contacts/linkedin.svg" height="25" /></a>
+<a href="mailto:kshama.kumar94@gmail.com" target="blank"><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Contacts/gmail.svg" height="25" /></a>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshamaakumar&theme=nordfox&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 

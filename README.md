@@ -10,11 +10,15 @@ From the halls of Computer Science to the depths of Data Science, I've ventured.
 While I may be a bit on the shy side, my love for data is anything but. I'm on a mission to make data not just accessible, but truly useful.
 
 ### Tech Tools 🛠️ 
-<img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/python.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/pandas.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/mysql.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/microsoftsqlserver.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/googlecloud.svg" height="25" /><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/tableau.svg" height="25" /><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/tensorflow.svg" height="25" /><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/git.svg" height="25" />
+Languages:<img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/Python.svg" height="25"/> <img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/PHP.svg" height="25"/><br>
+Data Analysis and Management:<img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/mysql.svg" height="25"/> <img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/PostgresSQL.svg" height="25"/> <img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/NumPy.svg" height="25"/> <img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/Pandas.svg" height="25"/><br>
+Cloud Services: <img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/AWS.svg" height="25"/> <img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/Google%20Cloud.svg" height="25"/><br>
+Tools: <img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/Docker.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/Apache%20Airflow.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/DataGrip.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/FastAPI.svg" height="25"/><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/Visual%20Studio%20Code%20(VS%20Code).svg" height="25" /><br>
 
 ### How to reach me 📫 
-<a href="https://www.linkedin.com/in/kshamakumar/" target="blank"><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Contacts/linkedin.svg" height="25" /></a>
-<a href="mailto:kshama.kumar94@gmail.com" target="blank"><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Contacts/gmail.svg" height="25" /></a>
+<a href="https://www.linkedin.com/in/kshamakumar/" target="blank"><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/LinkedIn.svg" height="25" /></a>
+<a href="mailto:kshama.kumar94@gmail.com" target="blank"><img align="center" src="https://github.com/kshamaakumar/kshamaakumar/blob/main/Technology/gmail.png" height="25" /></a>
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshamaakumar&theme=nordfox&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
